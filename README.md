@@ -5,8 +5,8 @@ Here you gonna find
 #####Catholic University of Colombia
 
 - Classes
- - Computers Programming
+ - Computers Programming (not yet)
  - Object Oriented Programming
- - Data Structures
+ - Data Structures (not yet)
  - Distributed Systems
  - Service Design and Technological Convergence
