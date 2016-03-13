@@ -5,7 +5,7 @@ Here you gonna find
 
 #####Catholic University of Colombia
 email: darincon@ucatolica.edu.co
-note: the code is in spanish
+note: all the content is in spanish
 
 - Classes
  - Computers Programming (not yet)
