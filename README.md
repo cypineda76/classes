@@ -1,8 +1,11 @@
-##Welcome to my Academic Repository 
+##Welcome to my Academic Repository
+
 
 Here you gonna find
 
 #####Catholic University of Colombia
+email: darincon@ucatolica.edu.co
+note: the code is in spanish
 
 - Classes
  - Computers Programming (not yet)
