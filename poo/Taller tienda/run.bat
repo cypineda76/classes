@@ -1,4 +1,12 @@
 @echo off
+echo ..:: Creando Proyecto ::..
+mkdir build
+mkdir build\controlador\
+mkdir build\modelo\
+mkdir build\vista\
+mkdir doc\cu
+mkdir doc\req
+
 echo ..:: Limpiando Proyecto ::..
 del build\modelo\*.class
 del build\vista\*.class
