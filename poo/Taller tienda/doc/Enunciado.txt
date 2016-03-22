@@ -1,0 +1,10 @@
+Taller de Analisis y Diseño
+
+En un proceso de comercialización de productos se realiza un análisis para determinar las clases que lo integran y la forma como estas clases se asocian o se vinculan. 
+Se obtiene que las clases que conforman el proceso se pueden resumir en cliente (persona o empresa que hace la compra) y las características de cliente luego de hacer la abstracción correspondiente son las siguientes:código, nombre, apellido, dirección, teléfono.
+Los métodos a la cual responde la clase cliente se detallan en: inclusión, eliminación, modificación, consulta de impresión.
+Si el cliente es personal se necesita también los atributos de cédula de la persona y numero de tarjeta de crédito, pero, si el cliente es empresarial se requieren los datos de su RIF, su limite de crédito, nombre y teléfono de la persona de contacto en esa empresa, si la empresa tiene el beneficio de crédito no lo tiene y finalmente el monto de los créditos que ha recibido conocido como monto acreditado. 
+Un método especial aplicado a los clientes empresariales es la impresión de su monto acreditado. 
+Otra entidad es la de productos que trabaja conjuntamente con la clase marca. Los datos de producto son: código, nombre y precio y los de marca simplemente el nombre. Los métodos a los que responden las clases son: incluir, modificar,eliminar para ambas clases y adicionalmente la clase producto responde a los métodos consultar e imprimir.
+Una clase adicional es la de factura que se compone además de la clase detalle de factura. La clase factura opera con los datos principales de la misma, a saber:numero, fecha, impuesto, total y responde a los métodos: ingresar, anular,calcular total e imprimir. 
+El detalle de factura es donde se describe el contenido de la misma y maneja los atributos: cantidad de producto vendido y subtotal. Un método propio de esta entidad es el de calcular el subtotal vendido
