@@ -7,7 +7,9 @@
 3. Transport Layer Generals
 
 * Linux General 
+
 #####Workshop Summary
+
 1. IPv4 Address Segmentation - Cisco Switching
 2. IPv4 Static Routing - Cisco Routing
 3. IPv6 Static Routing - Cisco Routing
